@@ -1,93 +1,18 @@
-<div align="center"> <img src="./profile.jpeg" width="150" height="150" style="border-radius:50%; border:3px solid #00F5FF;" alt="Priyanshu Khandelwal"/> <br/> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=00F5FF&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Priyanshu+Khandelwal;Data+Analytics+%E2%86%92+Data+Science+%E2%86%92+AI+%E2%86%92+Automation;Turning+Raw+Data+Into+Intelligent+Systems" alt="Typing SVG" />
+# 💫 About Me:
+I’m a B.Tech student specializing in Artificial Intelligence & Data Science, passionate about Data Analytics, Data Science, and AI-driven solutions. I enjoy transforming raw data into meaningful insights, building interactive dashboards, and developing practical machine learning applications.<br><br>I work with Python, SQL, Excel, Power BI, Tableau, Pandas, NumPy, Scikit-learn, and Streamlit. Alongside analytics, I’m exploring AI and automation to build smarter and more efficient solutions.<br><br> Currently: Building data-driven projects, strengthening my analytical skills, and exploring AI & automation.
 
-LinkedIn GitHub Gmail
 
-</div> <br/> <div align="center">
-🧭 My Journey
+## 🌐 Socials:
+[![Bluesky](https://img.shields.io/badge/bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=%23FFFFFF)](https://bsky.app/profile/shunova01) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Its_priyanshu1912) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/priyanshu-khandelwal-7213122b1/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:priyanshukhandelwal1912@gmail.com) 
 
-DATA ANALYTICS  ➜  DATA SCIENCE  ➜  ARTIFICIAL INTELLIGENCE  ➜  AUTOMATION
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Sketch](https://img.shields.io/badge/Sketch-FFB387?style=for-the-badge&logo=sketch&logoColor=black) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Vitest](https://img.shields.io/badge/-Vitest-252529?style=for-the-badge&logo=vitest&logoColor=FCC72B)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=Priyanshu-90797&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=Priyanshu-90797&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Priyanshu-90797&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-</div>
-🧠 About Me
+---
+[![](https://komarev.com/ghpvc/?username=Priyanshu-90797&icon=0&color=0)](https://visitcount.itsvg.in)
 
-I'm a B.Tech student specializing in Artificial Intelligence & Data Science, passionate about transforming raw data into meaningful insights and building intelligent, automated solutions.
-
-I work with Python, SQL, Excel, Power BI, Tableau, Pandas, NumPy, Scikit-learn, and Streamlit to analyze data, build interactive dashboards, develop machine learning solutions, and create practical AI-driven applications. I'm also actively exploring automation and AI workflows to make repetitive processes smarter and more efficient.
-
-yaml
-name: "Priyanshu Khandelwal"
-education: "B.Tech - Artificial Intelligence & Data Science (CGPA: 9.01/10)"
-university: "Bikaner Technical University, Rajasthan"
-graduation: "2027"
-current_stage: "Data Analytics → transitioning into Data Science & AI"
-mindset: "curious | analytical | automation-driven"
-🧬 Tech Stack — By Stage
-<div align="center">
-📊 Stage 1 — Data Analytics
-<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/> <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/> <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/> <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
-
-Dashboard Development KPI Reporting Data Cleaning Data Validation Trend Analysis Business Insights
-
-🔬 Stage 2 — Data Science
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/> <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-
-Exploratory Data Analysis Statistical Analysis Hypothesis Testing Regression Analysis Correlation Anomaly Detection
-
-🤖 Stage 3 — Artificial Intelligence
-<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/> <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
-
-Feature Engineering Predictive Modeling Classification Model Evaluation GenAI
-
-⚙️ Stage 4 — Automation
-<img src="https://img.shields.io/badge/Google_BigQuery-4285F4?style=for-the-badge&logo=googlebigquery&logoColor=white"/> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-
-Analytics Automation Data Quality Quality Control AI Workflows
-
-</div>
-💼 Experience
-🔹 Data Analyst Trainee — Dataview Analytics (Virtual Training)
-
-May 2026 – August 2026  |  Excel SQL Power BI Python
-
-📦 Processed & standardized 100,000+ rows of multi-region data to support weekly analytics and KPI tracking
-⚡ Designed smart Excel templates with lookup functions & pivot logic — saved 40% reporting time across 4 departments
-📊 Built interactive Power BI dashboards tracking revenue trends, customer mix, and monthly performance across 100,000+ records
-🧩 Used Power Query, DAX, and data modeling to monitor 6 business KPIs across multiple regions
-🚀 Featured Projects
-<table> <tr> <td width="50%" valign="top">
-📊 Customer Behavior Analysis
-
-Python · SQL · Power BI
-
-Analyzed customer behavior, purchasing patterns, sales, and revenue trends.
-
-🧹 Cleaned & transformed data using Pandas/NumPy
-🗄️ SQL: joins, CTEs, subqueries, aggregations, window functions
-📈 Interactive Power BI dashboard for segments, sales & KPIs
-</td> <td width="50%" valign="top">
-💹 FinSight AI
-
-Python · Excel · Machine Learning · Streamlit
-
-AI-powered financial analysis platform to generate interactive insights.
-
-🧼 Data cleaning, preprocessing & EDA with Pandas/NumPy
-📊 Interactive dashboards with dynamic charts & filters
-🤖 ML models for financial forecasting
-</td> </tr> </table>
-🏆 Certifications
-🎖️ Google Analytics Certificate — Google (2026)
-🎖️ Excel: From Beginner to Advanced — Analytics Vidhya (2026)
-🎖️ Deloitte Data Analytics Job Simulation — 2026
-🎓 Education
-
-B.Tech — Artificial Intelligence & Data Science Bikaner Technical University, Rajasthan 🎯 CGPA: 9.01 / 10  |  🗓️ Graduating: 2027
-
-<div align="center">
-📫 Let's Connect
-
-LinkedIn Gmail GitHub
-
-Show Image
-
-<br/> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,100:00F5FF&height=100&section=footer"/> </div>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
