@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=priyanshu-90797&label=Profile%20views&color=0e75b6&style=flat" alt="priyanshu-90797" /> </p>
 
-- 🔭 I’m currently working on **🔭 Currently learning Automation & AI-powered workflows. ⚙️🤖**
+- 🔭 I’m currently working on **🔭 Automation & AI-powered workflows. ⚙️🤖**
 
 - 🌱 I’m currently learning **Data Analytics & Automation 📊⚙️**
 
